@@ -1,0 +1,2 @@
+vim hello 
+hello from a.txt fbfsb
